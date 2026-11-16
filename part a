@@ -1,0 +1,4 @@
+mkdir "CyberDyne Case"
+cd "CyberDyne Case"
+git init 
+
